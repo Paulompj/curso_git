@@ -1,0 +1,56 @@
+[33mcommit 7f35e0e3e8ebb4819f50b9ead9eededc2d844b99[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Paulo <paulompj010@gmail.com>
+Date:   Fri Apr 26 18:53:45 2024 -0300
+
+    Alterei o arquivo README.md
+
+[33mcommit c8bc9945f03968e238f078968bf60bdc10820823[m
+Merge: bcd7215 3eff1e7
+Author: Paulo <paulompj010@gmail.com>
+Date:   Fri Apr 26 12:23:14 2024 -0300
+
+    Merge branch 'main' of https://github.com/Paulompj/curso_git
+
+[33mcommit bcd7215b1edcbee4fbdf2ec95f80ef711adefd68[m
+Author: Paulo <paulompj010@gmail.com>
+Date:   Fri Apr 26 12:22:48 2024 -0300
+
+    ola
+
+[33mcommit 3eff1e7849582a610ecbfdfbbc2bd7b0687b5201[m
+Author: Paulo Moraes Pessoa Jardim <148372369+Paulompj@users.noreply.github.com>
+Date:   Fri Apr 26 11:58:21 2024 -0300
+
+    Create README.md
+    
+    Adicionei uma descriçao ao repositório
+
+[33mcommit 074396a4826cc8d8b1b5e914d9641f487d83046f[m
+Author: Paulo <paulompj010@gmail.com>
+Date:   Fri Apr 26 11:55:19 2024 -0300
+
+    coloquei assets
+
+[33mcommit 2bac044dc9df84f01596b46eeb061dc6a13cc2dd[m
+Author: Paulo <paulompj010@gmail.com>
+Date:   Thu Apr 25 15:24:52 2024 -0300
+
+    teste2
+
+[33mcommit 8ff5fd257c2e4e779e14a3c82cf6eb0bfcaf3437[m
+Author: Paulo <paulompj010@gmail.com>
+Date:   Thu Apr 25 15:20:27 2024 -0300
+
+    teste
+
+[33mcommit bc84192153faee29a32039948ab0a0a46486874e[m
+Author: Paulo <paulompj010@gmail.com>
+Date:   Thu Apr 25 15:14:17 2024 -0300
+
+    commit
+
+[33mcommit 5f24dceb93c88103def11c3571c71defaaa28b60[m
+Author: Paulo <paulompj010@gmail.com>
+Date:   Thu Apr 25 13:27:12 2024 -0300
+
+    Teste
